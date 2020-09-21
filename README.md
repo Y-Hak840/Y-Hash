@@ -4,24 +4,21 @@
 # Orders 
 
 <pre>
+pkg update 
 
-[+] pkg update 
+pkg upgrade 
 
-[+] pkg upgrade 
+pkg install git 
 
-[+] pkg insatll git 
+pkg install python 
 
-[+] pkg install python 
+git clone https://github.com/Y-Hak840/Y-Hash 
 
-[+] git clone https://github.com/Y-Hak840/Y-Hash 
+cd Y-Hash 
 
-[+] cd Y-Hash 
+chmod +x Y-Hash.py 
 
-[+] ls
-
-[+] chmod +x Y-Hash.py 
-
-[+] python Y-Hash.py
+python Y-Hash.py
 
 </pre>
 
