@@ -16,8 +16,6 @@ git clone https://github.com/Y-Hak840/Y-Hash
 
 cd Y-Hash 
 
-chmod +x Y-Hash.py 
-
 python Y-Hash.py
 
 </pre>
